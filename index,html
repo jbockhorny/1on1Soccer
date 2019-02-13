@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" href="https://jbockhorny.github.io/css/jogo.css">
+<link rel="stylesheet" href="https://jbockhorny.github.io/html/jogo.html">
 </head>
   <body>
     <canvas id="folha" width="600" height="500"></canvas>
