@@ -8,4 +8,6 @@ Segue o link para o [jogo](https://jbockhorny.github.io/1on1Soccer/src/index.htm
 
 ![](src/img/player_soccer.png)
 
+Autor: Joanilza Oliveira Bockhorny
+
 
