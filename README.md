@@ -6,6 +6,6 @@ O mesmo foi feito com JavaScript e HTML.
 
 O link para jogar [1 on 1 Soccer](https://jbockhorny.github.io/1on1Soccer/src/index.html)
 
-![](src/img/play_soccer.png)
+![](src/img/player_soccer.png)
 
 
