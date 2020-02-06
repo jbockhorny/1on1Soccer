@@ -4,7 +4,7 @@ window.onload = function () {
 
 let playerPosition1 = playPosition2 = 40;
 let ballPositionX = ballPositionY = 10;
-let speedBallPositionX = speedBallPositionY = 8;
+let speedBallPositionX = speedBallPositionY = 7;
 let playerScore1 = playerScore2 = 0;
 const canvas = document.getElementById("canvas");
 const canvasArea = canvas.getContext("2d");
@@ -15,7 +15,7 @@ const ballDiameter = 10;
 const goalpostWidth = 5;
 const goalpostHeight = 100;
 const effectGoalpost = 0.3;
-let playerSpeed2 = 7;
+let playerSpeed2 = 2;
 
 canvas.addEventListener('mousemove', function (e) {
   playerPosition1 = e.clientY - goalpostHeight / 2;
@@ -97,8 +97,3 @@ function playIt() {
   }
 }
 
-if (playerScore1 || playerScore2 % 2 === 0 ) {
-  playerSpeed2++;
-  speedBallPositionX++;
-  speedBallPositionY++;
-}
